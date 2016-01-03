@@ -1,0 +1,28 @@
+name: Drew Pluta
+favicon: null
+layout_spectrum: 0.1535175780300051
+typography_spectrum: 0.11249439534731209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5322535522282124
+  lightness: 0.6861719964072108
+  saturation: 0.2994051987770945
+  rhythmicContrast: 0.9941271173302084
+purpose: []
