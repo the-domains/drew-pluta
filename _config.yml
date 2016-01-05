@@ -1,6 +1,6 @@
 name: Drew Pluta
 favicon: null
-layout_spectrum: 0.1535175780300051
+layout_spectrum: 1
 typography_spectrum: 0.7399
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5322535522282124
+  brandStrength: 0
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
