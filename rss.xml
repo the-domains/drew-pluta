@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Drew Pluta]]></title>
         <description><![CDATA[Drew Pluta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/drew-pluta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 17:15:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 17:11:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drew-pluta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de0b1740-3cd5-4d21-9865-2e935398374b.jpg">]]></description>
+            <link>https://thegrid.ai/drew-pluta/test/index.html</link>
+            <guid isPermaLink="false">139cad22-9e38-4cec-963d-471c177056be</guid>
+            <pubDate>Tue, 15 Mar 2016 17:11:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b31b1d2-2d63-426a-be58-be70ead7d0bb.jpg">]]></description>
-            <link>undefined9008cf6d-1121-4550-94c1-0e076ec126a7/index.html</link>
+            <link>https://thegrid.ai/drew-pluta/9008cf6d-1121-4550-94c1-0e076ec126a7/index.html</link>
             <guid isPermaLink="false">9008cf6d-1121-4550-94c1-0e076ec126a7</guid>
-            <pubDate>Sun, 03 Jan 2016 17:14:45 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 00:06:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
